@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/firebase-lesson/static/css/main.d8f20a20.chunk.css",
+    "main.js": "/firebase-lesson/static/js/main.41c9cc29.chunk.js",
+    "main.js.map": "/firebase-lesson/static/js/main.41c9cc29.chunk.js.map",
+    "runtime-main.js": "/firebase-lesson/static/js/runtime-main.dcc14a2c.js",
+    "runtime-main.js.map": "/firebase-lesson/static/js/runtime-main.dcc14a2c.js.map",
+    "static/js/2.e797811e.chunk.js": "/firebase-lesson/static/js/2.e797811e.chunk.js",
+    "static/js/2.e797811e.chunk.js.map": "/firebase-lesson/static/js/2.e797811e.chunk.js.map",
+    "static/js/3.a93c2b75.chunk.js": "/firebase-lesson/static/js/3.a93c2b75.chunk.js",
+    "static/js/3.a93c2b75.chunk.js.map": "/firebase-lesson/static/js/3.a93c2b75.chunk.js.map",
+    "index.html": "/firebase-lesson/index.html",
+    "static/css/main.d8f20a20.chunk.css.map": "/firebase-lesson/static/css/main.d8f20a20.chunk.css.map",
+    "static/js/2.e797811e.chunk.js.LICENSE.txt": "/firebase-lesson/static/js/2.e797811e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcc14a2c.js",
+    "static/js/2.e797811e.chunk.js",
+    "static/css/main.d8f20a20.chunk.css",
+    "static/js/main.41c9cc29.chunk.js"
+  ]
+}
